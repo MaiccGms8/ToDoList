@@ -1,12 +1,26 @@
-# React + Vite
+# ✅ ToDo List - React + Vite + TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto simples de **ToDo List** desenvolvido com **React**, **Vite** e **TailwindCSS**.  
+Ele permite adicionar, marcar como concluídas, remover e filtrar tarefas.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias usadas
+- [React](https://react.dev/) (biblioteca JavaScript para interfaces)
+- [Vite](https://vitejs.dev/) (ferramenta de build rápida)
+- [TailwindCSS](https://tailwindcss.com/) (framework CSS utilitário)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📷 Demonstração
+
+![Preview do Projeto](./preview.png)
+
+---
+
+## ⚙️ Funcionalidades
+- ➕ Adicionar tarefas  
+- ✅ Marcar como concluída  
+- ❌ Excluir tarefa  
+- 🔎 Filtrar entre **Todas / Ativas / Concluídas**  
+- 💾 Persistência em memória (ao atualizar a página, as tarefas somem — mas pode ser expandido para usar LocalStorage ou API)
