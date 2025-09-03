@@ -8,13 +8,7 @@ Ele permite adicionar, marcar como concluídas, remover e filtrar tarefas.
 ## 🚀 Tecnologias usadas
 - [React](https://react.dev/) (biblioteca JavaScript para interfaces)
 - [Vite](https://vitejs.dev/) (ferramenta de build rápida)
-- [TailwindCSS](https://tailwindcss.com/) (framework CSS utilitário)
-
----
-
-## 📷 Demonstração
-
-![Preview do Projeto](./preview.png)
+- [TailwindCSS](https://tailwindcss.com/) (framework CSS utilitário
 
 ---
 
